@@ -175,20 +175,8 @@ npm test
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [React](https://reactjs.org/)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-
 ## Contact
 
-Your Name - your.email@example.com
+Mail id : sukumaramaravathi@gmail.com
 
-Project Link: [https://github.com/yourusername/book-review-platform](https://github.com/yourusername/book-review-platform)
+Project Link: 
