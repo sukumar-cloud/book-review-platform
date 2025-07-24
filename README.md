@@ -1,5 +1,10 @@
 # Book Review Platform
 A book review platform where u can browse the intresting books and can get the books based on the requirements. The users can leave a review based on their experience and any users can view or browse the books according to the highest rating. 
+## Backend delpoyment link :
+https://book-review-platform-d9u5.onrender.com
+## Frontend hosted url :
+https://books-review-platform.netlify.app/books
+
 ## Features
 
 - **User Authentication**
