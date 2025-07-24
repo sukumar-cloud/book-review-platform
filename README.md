@@ -174,4 +174,4 @@ npm test
 
 Mail id : sukumaramaravathi@gmail.com
 
-Project Link: 
+Project Link: https://github.com/sukumar-cloud/book-review-platform.git
