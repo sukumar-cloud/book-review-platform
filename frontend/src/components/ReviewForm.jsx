@@ -2,9 +2,10 @@ import { useState } from 'react';
 import { StarIcon } from '@heroicons/react/24/solid';
 
 const ReviewForm = ({ onSubmit, isSubmitting, currentUser }) => {
-  const [rating, setRating] = useState(5);
+  const [rating, setRating] = useState(null);
   const [reviewText, setReviewText] = useState('');
   const [error, setError] = useState('');
+  
 
   const handleSubmit = (e) => {
     e.preventDefault();
