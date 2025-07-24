@@ -3,7 +3,7 @@ A book review platform where u can browse the intresting books and can get the b
 ## Backend delpoyment link :
 https://book-review-platform-d9u5.onrender.com
 ## Frontend hosted url :
-https://books-review-platform.netlify.app/books
+https://books-review-platform.netlify.app
 
 ## Features
 
