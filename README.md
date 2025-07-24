@@ -1,9 +1,13 @@
 # Book Review Platform
+A book review platform where u can browse the intresting books and can get the books based on the requirements. The users can leave a review based on their experience and any users can view or browse the books according to the highest rating. 
+## Backend delpoyment link :
+https://book-review-platform-d9u5.onrender.com
+## Frontend hosted url :
+https://books-review-platform.netlify.app
 
-A full-stack web application for discovering, reviewing, and rating books. Built with React, Node.js, Express, and MongoDB.
-
-![Book Review Platform Screenshot](screenshot.png)
-
+## Login credentials : kindly use this credentials to log in platform
+mail id : sukumar@gmail.com
+password : sukumar
 ## Features
 
 - **User Authentication**
@@ -69,7 +73,7 @@ A full-stack web application for discovering, reviewing, and rating books. Built
    npm install
    
    # Install frontend dependencies
-   cd ../frontend
+   cd frontend
    npm install
    ```
 
@@ -116,29 +120,36 @@ A full-stack web application for discovering, reviewing, and rating books. Built
 ## Project Structure
 
 ```
-book-review-platform/
-├── backend/               # Backend server
-│   ├── config/           # Configuration files
-│   ├── controllers/      # Route controllers
-│   ├── middleware/       # Custom middleware
-│   ├── models/           # MongoDB models
-│   ├── routes/           # API routes
-│   ├── utils/            # Utility functions
-│   ├── .env              # Environment variables
-│   ├── server.js         # Main server file
-│   └── package.json
-│
-└── frontend/             # Frontend React app
-    ├── public/           # Static files
-    └── src/
-        ├── assets/       # Images, fonts, etc.
-        ├── components/   # Reusable UI components
-        ├── context/      # React context
-        ├── pages/        # Page components
-        ├── services/     # API services
-        ├── styles/       # Global styles
-        ├── App.js        # Main App component
-        └── index.js      # Entry point
+backend/
+├── models/
+├── node_modules/
+├── routes/
+├── .env
+├── index.js
+├── package-lock.json
+├── package.json
+
+frontend/
+├── dist/
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── contexts/
+│   ├── pages/
+│   ├── services/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .env
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.cjs
 ```
 
 ## Testing
@@ -170,25 +181,12 @@ npm test
 ## Contributing
 
 1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them
-4. Push to the branch: `git push origin feature/your-feature`
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [React](https://reactjs.org/)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
+2. Make your changes and commit them
+3. Push to the branch 
+4. Open a pull request
 
 ## Contact
 
-Your Name - your.email@example.com
+Mail id : sukumaramaravathi@gmail.com
 
-Project Link: [https://github.com/yourusername/book-review-platform](https://github.com/yourusername/book-review-platform)
+Project Link: https://github.com/sukumar-cloud/book-review-platform.git
