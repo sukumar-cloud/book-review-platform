@@ -5,6 +5,9 @@ https://book-review-platform-d9u5.onrender.com
 ## Frontend hosted url :
 https://books-review-platform.netlify.app
 
+## Login credentials : kindly use this credentials to log in platform
+mail id : sukumar@gmail.com
+password : sukumar
 ## Features
 
 - **User Authentication**
