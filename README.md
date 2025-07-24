@@ -120,29 +120,36 @@ password : sukumar
 ## Project Structure
 
 ```
-book-review-platform/
-├── backend/               # Backend server
-│   ├── config/           # Configuration files
-│   ├── controllers/      # Route controllers
-│   ├── middleware/       # Custom middleware
-│   ├── models/           # MongoDB models
-│   ├── routes/           # API routes
-│   ├── utils/            # Utility functions
-│   ├── .env              # Environment variables
-│   ├── server.js         # Main server file
-│   └── package.json
-│
-└── frontend/             # Frontend React app
-    ├── public/           # Static files
-    └── src/
-        ├── assets/       # Images, fonts, etc.
-        ├── components/   # Reusable UI components
-        ├── context/      # React context
-        ├── pages/        # Page components
-        ├── services/     # API services
-        ├── styles/       # Global styles
-        ├── App.js        # Main App component
-        └── index.js      # Entry point
+backend/
+├── models/
+├── node_modules/
+├── routes/
+├── .env
+├── index.js
+├── package-lock.json
+├── package.json
+
+frontend/
+├── dist/
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── contexts/
+│   ├── pages/
+│   ├── services/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .env
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.cjs
 ```
 
 ## Testing
