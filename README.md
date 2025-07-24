@@ -65,7 +65,7 @@ A book review platform where u can browse the intresting books and can get the b
    npm install
    
    # Install frontend dependencies
-   cd ../frontend
+   cd frontend
    npm install
    ```
 
@@ -166,10 +166,9 @@ npm test
 ## Contributing
 
 1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them
-4. Push to the branch: `git push origin feature/your-feature`
-5. Open a pull request
+2. Make your changes and commit them
+3. Push to the branch 
+4. Open a pull request
 
 ## Contact
 
