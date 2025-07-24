@@ -1,9 +1,5 @@
 # Book Review Platform
-
-A full-stack web application for discovering, reviewing, and rating books. Built with React, Node.js, Express, and MongoDB.
-
-![Book Review Platform Screenshot](screenshot.png)
-
+A book review platform where u can browse the intresting books and can get the books based on the requirements. The users can leave a review based on their experience and any users can view or browse the books according to the highest rating. 
 ## Features
 
 - **User Authentication**
